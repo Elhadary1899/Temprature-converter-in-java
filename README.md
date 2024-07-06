@@ -5,7 +5,7 @@ Hi everyone!  I'm excited to share a project I recently completed: a temperature
 
 Key Features:
 
-• Multiple Scales: Convert between Celsius, Kelvin, and Fahrenheit with ease.
+• Multiple Scales: Convert between Celsius, Kelvin, and Fahrenheit with ease. <br/>
 • OOP Fundamentals: Encapsulation, inheritance, polymorphism, and abstraction are all implemented for clean, maintainable, and reusable code.
 • Exception Handling: The project anticipates and gracefully handles potential errors to ensure a smooth user experience.
 • User-Friendly validations: Say goodbye to invalid inputs! The project ensures all user entries are valid for accurate conversions.
